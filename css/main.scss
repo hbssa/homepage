@@ -1,0 +1,57 @@
+---
+---
+
+@import "settings";
+@import 'foundation';
+@import 'theme';
+
+.header-links {
+  li:first-child {
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 40.063em) {
+  .header-links {
+    font-size: 16px;
+    float: right;
+    padding-top: 20px;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  .header-links {
+    font-size: 16px;
+    float: right;
+    padding-top: 25px;
+  }
+}
+
+ul.centered-inline-list {
+  list-style-type: none;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    padding: 8px;
+  }
+}
+
+.bio {
+  margin-bottom: 7px;
+}
+
+.officer-item:not(:first-child) {
+  padding-top: 10px;
+}
+
+table.small-cell {
+  tbody tr td {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
+
+.one-line{
+  white-space:nowrap;
+}

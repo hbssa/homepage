@@ -1,0 +1,356 @@
+sections:
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - G
+  - H
+  - I
+  - J
+
+2016:
+  president:
+    title: President
+    officers:
+      A:
+        - name: Felicia Pappas
+      B:
+        - name: Ben Brinkopf
+      C:
+        - name: Greg Austin
+      D:
+        - name: Brittany Jones
+      E:
+        - name: Zachary Sokoloff
+      F: 
+        - name: Eleanor Foote
+      G:
+        - name: Brad Minkow
+      H:
+        - name: Caroline Boulos
+      I: 
+        - name: Chris Scullin 
+      J:
+        - name: Paul Sperduto
+  senator:
+    title: Senator
+    officers:
+      A:
+        - name: Ben Brinkopf
+      B:
+        - name: Catherine Slater
+      C:
+        - name: Alex Vassilev
+      D:
+        - name: Sarah Kretz
+      E:
+        - name: Elizabeth Clark
+      F:
+        - name: Giulia Siccardo
+      G:
+        - name: Michael Koichpolos
+      H:
+        - name: Christy Liu
+      I:
+        - name: Julie Cockle
+      J:
+        - name: Chris Igo
+  lv:
+    title: Leadership and Values
+    officers:
+      A: 
+        - name: Jess Goldfin
+      B:
+        - name: Caitlin Palmer
+      C:
+        - name: Joy Peabody
+      D:
+        - name: Mark Godfrey
+      E:
+        - name: Russell Mason
+      F:
+        - name: Richard Buckner
+      G:
+        - name: Rahima Dosani
+      H:
+        - name: Sam Lazarus
+      I:
+        - name: Ben Seipel
+      J:
+        - name: Juan Pablo Moncayo
+  ed:
+    title: Education
+    officers:
+      A: 
+        - name: Tara Fung 
+      B: 
+        - name: Lyndsey Billings  
+      C:
+        - name: Julia Senior  
+      D:
+        - name: Carina Rutgers  
+      E:
+        - name: Fahim Bashir  
+      F:
+        - name: Kevin Fitzgerald  
+      G: 
+        - name: Jordan Dolman 
+      H:
+        - name: Emma Hall 
+      I:
+        - name: Riki McCarthy 
+      J:
+        - name: Alix Olian
+  social:
+    title: Social
+    officers:
+      A:
+        - name: Michelle Chmielewski  
+        - name: Matt Eisen
+      B: 
+        - name: Jeff Zeller 
+        - name: Lauren Davis  
+      C: 
+        - name: Annie Rittgers  
+        - name: Karan Kumar 
+      D:
+        - name: Daniella Johnson  
+        - name: Elizabeth Bruyere 
+      E:
+        - name: Jennifer Henderson  
+        - name: Kathryn Smith 
+      F:
+        - name: Beatrice El-Hage  
+      G:
+        - name: Meghan Murphy 
+        - name: Shemeka Neville 
+        - name: Namrata Turaga  
+      H:
+        - name: Sisi Pan  
+        - name: Matthew Chu 
+      I:
+        - name: Tausif Ahmed  
+        - name: David Truetzel  
+      J:
+        - name: Seong Min Lee
+        - name: Leticia Tavares
+  treasurer:
+    title: Treasurer
+    officers:
+      A:
+        - name: Allen Yang  
+      B:
+        - name: Britt Danneman  
+      C:
+        - name: Diego Kantt 
+      D:
+        - name: Karthik Medarmetla
+      E:
+        - name: Josh Lee  
+      F:
+        - name: Marti Riba  
+      G:
+        - name: Tom Setiawan
+      H:
+        - name: Patrick Fangen  
+      I:
+        - name: Luke Henesy 
+      J:
+        - name: Brett Bone
+  admissions:
+    title: Admissions
+    officers:
+      A:
+        - name: Anna Raginskaya
+        - name: Allie Egan  
+      B:
+        - name: Kathryn Megna 
+        - name: Martin Hudak  
+      C:
+        - name: David Fairbank
+        - name: Bryan Kornswiet
+        - name: Eddie Coates
+      D:
+        - name: Page Wagley
+        - name: Carl Culicchia  
+      E: 
+        - name: Joanna Patterson  
+        - name: Hillary Dukart  
+      F:
+        - name: Elliott Davis 
+        - name: Ashley Daniels  
+      G:
+        - name: Stephanie Marr  
+        - name: Carol Davis 
+      H:
+        - name: Molly Palmersheim 
+        - name: Matthew Renner  
+      I:
+        - name: Matt Fujisawa 
+        - name: Sam Travers 
+      J:
+        - name: Jeremy Watson
+        - name: Casey Brock-Wilson
+  career:
+    title: Career
+    officers:
+      A:
+        - name: Emily Shao  
+      B:
+        - name: Elise Waxenberg 
+      C:
+        - name: Rebecca Dunek 
+      D:
+        - name: Liat Berry  
+      E:
+        - name: Lucian Tira 
+      F:
+        - name: Jennifer Ding 
+      G:
+        - name: Mandy Craig 
+      H: 
+        - name: Evan Sameroff 
+      I:
+        - name: Ryan Kraft  
+      J:
+        - name: Greg Laudick
+  athletic:
+    title: Athletic
+    officers:
+      A: 
+        - name: Danny Belch
+      B:
+        - name: Charlie McDonald  
+      C:
+        - name: Colin Fraser  
+      D:
+        - name: Sara Weber  
+      E: 
+        - name: Michael Stack 
+      F:
+        - name: Andrew Fong 
+      G:
+        - name: Kane Hochster 
+      H:
+        - name: Will Sandman  
+      I:
+        - name: Adam Taylor 
+      J:
+        - name: Josh Altman
+  international:
+    title: International
+    officers:
+      A:
+        - name: Georgiana Sidor 
+      B:
+        - name: Martina Gimenez-Comas
+      C:
+        - name: Kelvin Teo
+      D:
+        - name: Arnaud Favry  
+      E:
+        - name: Humbulani Dombo 
+      F:
+        - name: Sathin Poovarodom 
+      G:
+        - name: Fatima Porras Olalla  
+      H:
+        - name: Sofia Pietrella 
+      I:
+        - name: Maimouna Diakhaby 
+      J:
+        - name: Francisco Zinser
+  sa:
+    title: SA
+    officers:
+      A:
+        - name: Margareta Klincic 
+      B:
+        - name: Cameron Farkas  
+      C:
+        - name: Mark Powers 
+      D:
+        - name: David Chan  
+      E:
+        - name: Jonathan Scherr 
+      F:
+        - name: Emily Schofield 
+      G:
+        - name: Cauvery Patel 
+      H:
+        - name: Aaron Mahone  
+      I:
+        - name: Katie Lefkowitz 
+      J:
+        - name: Meghana Dhar
+  services:
+    title: Service
+    officers:
+      A:
+        - name: Melissa Beck  
+      B:
+        - name: Cally Everett 
+      C:
+        - name: Sarah Nam 
+      D:
+        - name: Harsh Narang  
+      E:
+        - name: Tim O'Hara  
+      F:
+        - name: Vatsala Deora 
+      G:
+        - name: David Bogorad 
+      H:
+        - name: Sarah Cognetti  
+      I:
+        - name: Dahila Cnter  
+      J:
+        - name: Marissa Henry
+  tech:
+    title: Technology
+    officers:
+      A:
+        - name: Austin Oehlerking 
+      B:
+        - name: Sameer Manek  
+      C: 
+        - name: Edward Weng 
+      D:
+        - name: Mark Godfrey  
+      E:
+        - name: Alex Santana  
+      F:
+        - name: Doba Parushev 
+      G:
+        - name: Ian Rorick  
+      H:
+        - name: Evan Valentini  
+      I:
+        - name: Steven Henderson  
+      J:
+        - name: Cyrus Stoller
+  wsa:
+    title: WSA
+    officers:
+      A:
+        - name: Neha Aviral 
+      B:
+        - name: Caitlin Haught  
+      C:
+        - name: Maia McCarron 
+      D:
+        - name: Andrea Blankmeyer 
+      E:
+        - name: Lauren Richardson 
+      F:
+        - name: Jocelyne Moyer  
+      G:
+        - name: Hilary McCain 
+      H:
+        - name: Janae Grijalva  
+      I:
+        - name: Kaitlyn Godfrey 
+      J:
+        - name: Shannon Nelson

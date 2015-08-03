@@ -1,0 +1,60 @@
+- section: A 2016
+  name: Ben Brinkopf
+  email: bbrinkopf@mba2016.hbs.edu
+  committees:
+    - Clubs
+    - Housing
+- section: B 2016
+  name: Catherine Slater
+  email: cslater@mba2016.hbs.edu
+  committees:
+    - "Budget & Oversight"
+    - Elections
+- section: C 2016
+  name: Alex Vassilev
+  email: avassilev@mba2016.hbs.edu
+  committees:
+    - "Budget & Oversight"
+    - Technology
+- section: D 2016
+  name: Sarah Kretz
+  email: skretz@mba2016.hbs.edu
+  committees: 
+    - Elections
+    - Class Day
+- section: E 2016
+  name: Elizabeth Clark
+  email: eclark@mba2016.hbs.edu
+  committees: 
+    - Class Day
+    - Services
+- section: F 2016
+  name: Giulia Siccardo
+  email: gsiccardo@mba2016.hbs.edu
+  committees:
+    - Class Day
+    - Academics
+- section: G 2016
+  name: Michael Koichopolos
+  email: mkoichopolos@mba2016.hbs.edu
+  committees: 
+    - Academics
+    - "Budget & Oversight"
+- section: H 2016
+  name: Christy Liu
+  email: cliu@mba2016.hbs.edu
+  committees:
+    - Housing
+    - Elections
+- section: I 2016
+  name: Julie Cockle
+  email: jcockle@mba2016.hbs.edu
+  committees:
+    - Technology
+    - "Budget & Oversight"
+- section: J 2016
+  name: Chris Igo
+  email: cigo@mba2016.hbs.edu
+  committees:
+    - Services
+    - Clubs

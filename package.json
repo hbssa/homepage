@@ -1,0 +1,24 @@
+{
+  "name": "sa-home",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-bower-task": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-watch": "*",
+    "bower": "*",
+    "grunt-exec": "*"
+  },
+  "engines": {
+    "npm": "1.2.x"
+  },
+  "description": "SA Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyrus Stoller",
+  "license": "MIT"
+}

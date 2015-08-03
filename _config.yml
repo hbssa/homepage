@@ -1,0 +1,24 @@
+# Site settings
+title: HBS Student Association
+baseurl: ""
+
+forum: //harvardpulse.com
+store: //sa.hbs.edu/collections/all
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - "bower_components"
+  - "bower.json"
+  - "node_modules"
+  - "package.json"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Gruntfile.coffee"
+  - "README.md"
+
+sass:
+  sass_dir: _sass
+  style: :compressed
