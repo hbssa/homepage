@@ -32,3 +32,32 @@ permalink: /section_leaders/
   {% endfor %}
   </tbody>
 </table>
+
+<h2>RC Section Leaders</h2>
+
+<table class="responsive small-cell">
+  <thead>
+    <tr>
+      <th>Section</th>
+      {% for section in site.data.section_leaders['sections'] %}
+        <td>{{section}}</td>
+      {% endfor %}
+    </tr>
+  </thead>
+
+  <tbody>
+  {% for position in site.data.section_leaders[2017] %}
+    <tr>
+      <th>{{position[1].title}}</th>
+      {% assign sections = position[1].officers %}
+      {% for officer in sections %}
+        <td>
+            {% for person in officer[1] %}
+              <div class="officer-item">{{ person['name'] }}</div>
+            {% endfor %}
+        </td>
+      {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

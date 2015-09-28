@@ -354,3 +354,347 @@ sections:
         - name: Kaitlyn Godfrey 
       J:
         - name: Shannon Nelson
+2017:
+  president:
+    title: President
+    officers:
+      A:
+        - name: Riley Horne
+      B:
+        - name: Matt Hellauer
+      C:
+        - name: Jon Wu
+      D:
+        - name: Anthony Wang
+      E:
+        - name: John Du
+      F:
+        - name: Reid McCann
+      G:
+        - name: Michael Yaroshefsky
+      H:
+        - name: David Miller
+      I:
+        - name: Stephanie Liu
+      J:
+        - name: Ananth Kasturiraman
+  senator:
+    title: Senator
+    officers:
+      A:
+        - name: Katherine Kavaler
+      B:
+        - name: Ian Clow
+      C:
+        - name: Rafael Rivera
+      D:
+        - name: Aaron Glenn Kinsey
+      E:
+        - name: Sam Wyman
+      F:
+        - name: Kate Stephens
+      G:
+        - name: Noah Munn Rosenberg
+      H:
+        - name: Safiya Karsan
+      I:
+        - name: Doug Patterson
+      J:
+        - name: Jamie Huang
+  lv:
+    title: Leadership and Values
+    officers:
+      A:
+        - name: James Baird
+      B:
+        - name: Aaron Stark
+      C:
+        - name: Sarah Lux
+      D:
+        - name: Taniel Chan
+      E:
+        - name: Jeremy Whyte
+      F:
+        - name: Barr Even
+      G:
+        - name: Jessica Yuan
+      H:
+        - name: Jenna Messer
+      I:
+        - name: Laura Hansen
+      J:
+        - name: Vicky Au
+  ed:
+    title: Education
+    officers:
+      A:
+        - name: Kike Aluko
+      B:
+        - name: Trevor Burns
+      C:
+        - name: John Paul Andree
+      D:
+        - name: Rafiq Ahmed
+      E:
+        - name: Mike Lynch
+      F:
+        - name: Meghan Pacholski
+      G:
+        - name: LaToya Marc
+      H:
+        - name: (Alice) Claire Lefevre
+      I:
+        - name: Andreanne Leduc
+      J:
+        - name: Andrew Walker
+  social:
+    title: Social
+    officers:
+      A:
+        - name: Eliza Timpson
+        - name: Peter Michel
+      B:
+        - name: Kevin Wei
+        - name: Remy Dikeou
+      C:
+        - name: Benny Cole
+        - name: Caitlin Johnson
+      D:
+        - name: Snigdha Sur
+        - name: Maximilian Schaefer
+      E:
+        - name: Alessandra Pelliccia
+        - name: Dan Martin
+      F:
+        - name: Sojung Lee
+        - name: Ian Tallett
+      G:
+        - name: Douglas Pederson
+        - name: Rachel Price
+      H:
+        - name: Simeon Bochev
+        - name: James Taggart
+      I:
+        - name: Jenny Kelemen
+        - name: Boris Doynov
+      J:
+        - name: Lee Sun
+        - name: Scott Veazey
+  treasurer:
+    title: Treasurer
+    officers:
+      A:
+        - name: Alison Lyness
+      B:
+        - name: Charles Mokuolu
+      C:
+        - name: John Boghossian
+      D:
+        - name: Marc Batchan
+      E:
+        - name: Jackson Speake
+      F:
+        - name: Carol Lin
+      G:
+        - name: Adam Halpern-Leistner
+      H:
+        - name: Yoonju Kim
+      I:
+        - name: William Newell
+      J:
+        - name: Bryan Meyerhofer
+  admissions:
+    title: Admissions
+    officers:
+      A:
+        - name: Joseph Kiernan
+        - name: Ishita Bali
+      B:
+        - name: Andie Schroeder
+        - name: Annie Fulton
+      C:
+        - name: Daniel Schachne
+        - name: Gil Gerstl
+      D:
+        - name: Olufunke Faweya
+        - name: Rebecca Greenbaum
+      E:
+        - name: Matt Newill
+        - name: Maggie Orseth
+      F:
+        - name: Jessica Sites
+        - name: Megan Trout
+        - name: Terrance Rogers
+      G:
+        - name: J Taylor Wiegele
+        - name: Caitlin Carmichael
+      H:
+        - name: Theresa Glaser
+        - name: Natalie Dale
+      I:
+        - name: Charlotte Steel
+        - name: Anderson Lee
+      J:
+        - name: Ali Hassan
+        - name: Tsion Tsegaye
+  career:
+    title: Career
+    officers:
+      A:
+        - name: Samantha Cox
+      B:
+        - name: Keyur Patel
+      C:
+        - name: Marlene Shi
+      D:
+        - name: Kevin Homsy
+      E:
+        - name: Ashley Moser
+      F:
+        - name: Richard Qian
+      G:
+        - name: Sarah Winters
+      H:
+        - name: Andrew Banovic
+      I:
+        - name: Gosia Karas
+      J:
+        - name: Aravind Krishnan
+  athletic:
+    title: Athletic
+    officers:
+      A:
+        - name: Tyler Biddix
+      B:
+        - name: Mark Mason
+      C:
+        - name: Cameron Douglas
+      D:
+        - name: Keith Tyler
+      E:
+        - name: Dylan Jackson
+      F:
+        - name: Dan Egan
+      G:
+        - name: Scott Maddux
+      H:
+        - name: David Dana
+      I:
+        - name: Andrew Forman
+      J:
+        - name: Alison Lu
+  international:
+    title: International
+    officers:
+      A:
+        - name: Sinem Ormeci
+      B:
+        - name: Rafael Montinola
+      C:
+        - name: Lucy Wang
+      D:
+        - name: Gautami Kakaraparthi
+      E:
+        - name: Rahel Schneider
+      F:
+        - name: Anirban Datta Gupta
+      G:
+        - name: Xavier Azcue
+      H:
+        - name: Andrea Barry
+      I:
+        - name: Saumya Gupta
+      J:
+        - name: Hrithik Bansal
+  sa:
+    title: SA
+    officers:
+      A:
+        - name: Rachel Sam
+      B:
+        - name: Daniella Turenshine
+      C:
+        - name: Pierre-Matthieu Gompertz
+      D:
+        - name: Smitha Boyd
+      E:
+        - name: Bryan Coburn
+      F:
+        - name: Kelsey Boyd
+      G:
+        - name: Ankit Saraf
+      H:
+        - name: Sayiddah McCree
+      I:
+        - name: TBD
+      J:
+        - name: David Rose
+  services:
+    title: Service
+    officers:
+      A:
+        - name: Sharon Li
+      B:
+        - name: Avilia Guardiola
+      C:
+        - name: James Sawabini
+      D:
+        - name: Kathryn Rae Mulvey
+      E:
+        - name: Jennie Nevin
+      F:
+        - name: Kie Watanabe
+      G:
+        - name: Zhihan Ma
+      H:
+        - name: Lisa Rickles
+      I:
+        - name: Jessica Port
+      J:
+        - name: Melissa Pons
+  tech:
+    title: Technology
+    officers:
+      A:
+        - name: Alex Mahylis
+      B:
+        - name: Prasad Raman
+      C:
+        - name: Go Choi
+      D:
+        - name: Allen Liu
+      E:
+        - name: Rahul Natesh
+      F:
+        - name: Ellen DaSilva
+      G:
+        - name: Neha Dave
+      H:
+        - name: Ni Xu
+      I:
+        - name: Aner Gelman
+      J:
+        - name: Brandon Kaufmann
+  wsa:
+    title: WSA
+    officers:
+      A:
+        - name: Alisa Alexander
+      B:
+        - name: Danielle Even
+      C:
+        - name: Christa Cunningham
+      D:
+        - name: Carolyn Geller
+      E:
+        - name: Elyse Glover
+      F:
+        - name: Sabrina Yessayan
+      G:
+        - name: Monica Jackman
+      H:
+        - name: Jackie Valentine
+      I:
+        - name: Anna Aleksandrova
+      J:
+        - name: Sasha Pang
