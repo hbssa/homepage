@@ -30,27 +30,4 @@ If you have any questions, please don’t hesitate to email the Senate at [Senat
 
 ---
 
-### EC Senators
-
-<table class="responsive">
-  <thead>
-    <tr>
-      <th></th>
-      <th>Name</th>
-      <th>Committees</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for senator in site.data.senate %}
-      <tr>
-        <td>Section {{ senator['section'] }}</td>
-        <td><a href="mailto:{{senator['email']}}">{{ senator['name'] }}</a></td>
-        <td>
-          {% for c in senator['committees'] %}
-            <div class="officer-item">{{ c }}</div>
-          {% endfor %}
-        </td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% include senate_table.html %}

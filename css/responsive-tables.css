@@ -17,6 +17,8 @@
 table th { font-weight: bold; }
 table td, table th { padding: 9px 10px; text-align: left; }
 
+table.full-width { width: 100%; }
+
 /* Mobile */
 @media only screen and (max-width: 767px) {
 	
