@@ -8,7 +8,7 @@ permalink: /programming/
 
 
 
-The Student Association aims to provide a variety of programming for the HBS student body. In keeping with our platform of HOME (mental Health and wellness, Openness and diveristy, Mentorship, and Engagement), we host events ranging from daily meditation to Holidazzle and Newport Ball.  
+The Student Association aims to provide a variety of programming for the HBS student body. In keeping with our platform of HOME (mental Health and wellness, Openness and diveristy, Mentorship, and Engagement), we host events ranging from meditation to Holidazzle and Newport Ball.   
 
 
 <br>
