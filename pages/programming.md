@@ -6,13 +6,10 @@ permalink: /programming/
 
 ## Programming
 
-### [RC START][1]
 
-START is not an isolated orientation; rather, it is a preview of what’s to come over your next two years. If we could pick one desired outcome for START, from a student life perspective, it would be to familiarize incoming students with the Student Association – what it does, which programs and services it offers, how it can help them, and how they can help it.
 
-In that vein, we structured this year's START programming around three pillars at the foundation of successful student life — (1) personal and (2) professional development and (3) a strong community to facilitate said development process. Together, these pillars encompass the web of support you will receive, from the SA and the administration, starting the moment you arrive on campus.
+The Student Association aims to provide a variety of programming for the HBS student body. In keeping with our platform of HOME (mental Health and wellness, Openness and diveristy, Mentorship, and Engagement), we host events ranging from daily meditation to Holidazzle and Newport Ball.  
 
-[Click here][1] for more info.
 
 <br>
 
