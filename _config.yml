@@ -5,6 +5,8 @@ baseurl: ""
 forum: //harvardpulse.com
 store: //sa.hbs.edu/collections/all
 
+incremental: true
+
 # Build settings
 markdown: kramdown
 permalink: pretty
